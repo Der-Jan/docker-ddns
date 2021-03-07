@@ -1,4 +1,4 @@
-From openwrtorg/rootfs:x86-64-openwrt-19.07
+From openwrt-rootfs:openwrt-19.07
 MAINTAINER Jan Riechers <de@r-jan.de>
 
 EXPOSE 80
