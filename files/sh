@@ -1,7 +1,0 @@
-#!/bin/busybox sh
-
-if [ "$#" -eq 0 ]; then
-        exec /bin/busybox ash --login
-else
-        /bin/busybox sh "$@"
-fi
